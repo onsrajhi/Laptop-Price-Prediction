@@ -8,6 +8,7 @@ Accurate Laptop price prediction involves expert knowledge, because price usuall
 ## 🚀 Demo
 
 Try the live app here 👉 [https://laptop-price-prediction-onsrajhi.streamlit.app/]
+![gitdiagram](diagram.png)
 
 📈 Processes
 
